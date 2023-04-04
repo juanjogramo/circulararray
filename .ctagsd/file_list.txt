@@ -1,0 +1,5 @@
+/Users/juanjogramo/Developer/UTEC/CPP/circulararray/tester.h
+/Users/juanjogramo/Developer/UTEC/CPP/circulararray/circulararray.h
+/Users/juanjogramo/Developer/UTEC/CPP/circulararray/main.cpp
+/Users/juanjogramo/Developer/UTEC/CPP/circulararray/stack.h
+/Users/juanjogramo/Developer/UTEC/CPP/circulararray/queue.h

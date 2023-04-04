@@ -1,0 +1,21 @@
+[{
+  "file": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray/tester.h",
+  "directory": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray",
+  "command": "/usr/bin/clang++ -c /Users/juanjogramo/Developer/UTEC/CPP/circulararray/tester.h -o /Users/juanjogramo/Developer/UTEC/CPP/circulararray/tester.h.o -target arm64-apple-darwin22.4.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -Og  -std=c++17  -Wall  -g -Wall"
+ }, {
+  "file": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray/circulararray.h",
+  "directory": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray",
+  "command": "/usr/bin/clang++ -c /Users/juanjogramo/Developer/UTEC/CPP/circulararray/circulararray.h -o /Users/juanjogramo/Developer/UTEC/CPP/circulararray/circulararray.h.o -target arm64-apple-darwin22.4.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -Og  -std=c++17  -Wall  -g -Wall"
+ }, {
+  "file": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray/main.cpp",
+  "directory": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray",
+  "command": "/usr/bin/clang++ -c /Users/juanjogramo/Developer/UTEC/CPP/circulararray/main.cpp -o /Users/juanjogramo/Developer/UTEC/CPP/circulararray/main.cpp.o -target arm64-apple-darwin22.4.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -Og  -std=c++17  -Wall  -g -Wall"
+ }, {
+  "file": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray/stack.h",
+  "directory": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray",
+  "command": "/usr/bin/clang++ -c /Users/juanjogramo/Developer/UTEC/CPP/circulararray/stack.h -o /Users/juanjogramo/Developer/UTEC/CPP/circulararray/stack.h.o -target arm64-apple-darwin22.4.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -Og  -std=c++17  -Wall  -g -Wall"
+ }, {
+  "file": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray/queue.h",
+  "directory": "/Users/juanjogramo/Developer/UTEC/CPP/circulararray",
+  "command": "/usr/bin/clang++ -c /Users/juanjogramo/Developer/UTEC/CPP/circulararray/queue.h -o /Users/juanjogramo/Developer/UTEC/CPP/circulararray/queue.h.o -target arm64-apple-darwin22.4.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -Og  -std=c++17  -Wall  -g -Wall"
+ }]
